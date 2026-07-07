@@ -740,3 +740,43 @@ body {
   display: block;
   margin: 0 auto;
 }
+
+/* 404 page */
+
+.error-page {
+  min-height: 70vh;
+  padding: 140px 24px 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+}
+
+.error-content {
+  max-width: 620px;
+  text-align: center;
+}
+
+.error-content h1 {
+  margin: 0;
+  color: var(--light-pink);
+  font-family: var(--font-title);
+  font-size: clamp(80px, 12vw, 160px);
+  line-height: 0.9;
+  font-weight: 100;
+}
+
+.error-content h2 {
+  margin: 18px 0 18px;
+  color: var(--light-pink);
+  font-family: var(--font-title);
+  font-size: var(--size-section-title);
+  line-height: 1.15;
+  font-weight: 100;
+}
+
+.error-content p {
+  margin: 0 0 28px;
+  font-size: var(--size-body);
+  line-height: var(--line-body);
+}
