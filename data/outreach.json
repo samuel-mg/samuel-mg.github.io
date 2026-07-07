@@ -1,0 +1,18 @@
+[
+  {
+    "title": "How do you take sides?",
+    "textFile": "data/outreach/multipolar.txt",
+    "embedUrl": "https://vis.csh.ac.at/multipolar-viz/",
+    "buttonLabel": "Visualization - multipolar framework",
+    "buttonUrl": "https://vis.csh.ac.at/multipolar-viz/",
+    "layout": "text-left"
+  },
+  {
+    "title": "The Two-Dimensional Divide",
+    "textFile": "data/outreach/disparity.txt",
+    "embedUrl": "https://vis.csh.ac.at/planets-of-disparity-two/",
+    "buttonLabel": "Visualization - Planets of disparity II",
+    "buttonUrl": "https://vis.csh.ac.at/planets-of-disparity-two/",
+    "layout": "text-right"
+  }
+]

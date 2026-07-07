@@ -1,0 +1,28 @@
+[
+    {
+    "title": "<code>multisoc</code>",
+    "textFile": "data/software/multisoc.txt",
+    "image": "assets/img/software/multisoc.png",
+    "imageAlt": "Screenshot of the software",
+    "layout": "image-right",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/CSHVienna/multisoc"
+      }
+    ]
+  },
+  {
+    "title": "<code>multipolar</code>",
+    "textFile": "data/software/multipolar.txt",
+    "image": "assets/img/software/multipolar.png",
+    "imageAlt": "Screenshot of the software",
+    "layout": "image-right",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/samuel-mg/multipolar"
+      }
+    ]
+  }
+]

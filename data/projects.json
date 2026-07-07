@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Multidimensional social interactions",
+    "textFile": "data/projects/multidimensional.txt",
+    "image": "assets/img/projects/multidimensional.webp",
+    "imageAlt": "Diagram of multidimensional social interaction model",
+    "layout": "text-left",
+    "links": [
+      {
+        "label": "MAPS model paper",
+        "url": "https://www.nature.com/articles/s42005-026-02537-3"
+      },
+      {
+        "label": "Intersectional tie inequalities",
+        "url": "https://www.science.org/doi/10.1126/sciadv.adu9025"
+      }
+    ]
+  },
+  {
+    "title": "Multipolar social systems",
+    "textFile": "data/projects/multipolar.txt",
+    "image": "assets/img/projects/multipolar.png",
+    "imageAlt": "Multipolar polarization diagrams",
+    "layout": "image-left",
+    "links": [
+      {
+        "label": "Multipolar framework",
+        "url": "https://doi.org/10.1016/j.chaos.2023.113244"
+      }
+    ]
+  },
+  {
+    "title": "Turing Tests for LLM-Based Social Simulation",
+    "textFile": "data/projects/LLMs_behavior.txt",
+    "image": "assets/img/projects/LLMs_behavior.png",
+    "imageAlt": "Turing test diagrams for LLM-based social simulation",
+    "layout": "text-left",
+    "links": [
+      {
+        "label": "Game theory with LLMs",
+        "url": "https://arxiv.org/abs/2511.04500"
+      }
+    ]
+  },
+  {
+    "title": "The first-mover advantage and the gender citation gap",
+    "textFile": "data/projects/first_mover.txt",
+    "image": "assets/img/projects/first_mover.png",
+    "imageAlt": "First-mover advantage and gender citation gap diagrams",
+    "layout": "image-left",
+    "links": [
+      {
+        "label": "Investigating citation gaps with paper twins",
+        "url": "https://www.nature.com/articles/s42005-022-00997-x"
+      }
+    ]
+  },
+  {
+    "title": "Variance and covariance for distributions on networks",
+    "textFile": "data/projects/network_variance.txt",
+    "image": "assets/img/projects/network_variance.png",
+    "imageAlt": "Variance and covariance diagrams for distributions on networks",
+    "layout": "text-left",
+    "links": [
+      {
+        "label": "Graph (co)variance paper",
+        "url": "https://epubs.siam.org/doi/abs/10.1137/20M1361328"
+      },
+      {
+        "label": "Graph (co)variance preprint",
+        "url": "https://arxiv.org/abs/2008.09155"
+      }
+    ]
+  }
+]

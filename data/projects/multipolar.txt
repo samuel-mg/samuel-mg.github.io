@@ -1,0 +1,7 @@
+Polarization is often described as a fight between two sides. That view works reasonably well for some cases, such as the two-party system in the United States, where political conflict is often framed as a divide between two opposing camps. But in many other contexts, especially in European multi-party democracies, polarization is more complicated: several groups can clash, align, or drift apart along different ideological dimensions at the same time.
+
+In this project, we develop tools to study polarization in these multipolar settings. Instead of assuming in advance that politics can be reduced to familiar axes such as left vs right, progressive vs conservative, or liberal vs authoritarian, our method lets the structure emerge from the data. The goal is to uncover the ideological landscape that best explains how different groups relate to one another.
+
+By doing this, we hope to better understand how social tensions form, how they evolve, and how different kinds of polarization can be compared within a common framework.
+​
+This research has been cited in the 2023/2024 UN Human Development Report <a href="https://www.undp.org/bhutan/publications/breaking-gridlock-reimagining-cooperation-polarized-world" target="_blank" rel="noopener noreferrer">Breaking the gridlock: Reimagining cooperation in a polarized world</a>.

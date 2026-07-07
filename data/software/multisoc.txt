@@ -1,0 +1,3 @@
+<code>multisoc</code> is a Python package for simulating and analyzing social networks with multidimensional interactions using the MAPS framework (Multidimensional Aggregation of Preferences in Social ties). Our multidimensional network model is based on aggregating latent connection preferences that depend on the attributes of the source node and the potential connection target.
+
+<code>multisoc</code> yields interpretable preference estimates and principled measures of dimension salience, providing a practical tool for analyzing social choices and identifying which aspects of identity matter most for tie formation.

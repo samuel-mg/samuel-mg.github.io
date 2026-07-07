@@ -1,0 +1,5 @@
+Women’s contributions to science are often less visible than those of their male colleagues. In physics, where women remain under-represented, this can also be seen in citation patterns: similar papers do not always receive the same attention.
+
+In this project, we study gender disparities in physics citations by comparing papers that are statistically similar. Our results suggest that part of the gap is linked to timing. Papers published earlier tend to receive more citations, a pattern known as first-mover advantage. Since men entered and remained in the field earlier and in larger numbers, these small advantages have accumulated over time.
+
+The project shows how present-day citation inequalities can emerge not only from how papers are evaluated today, but also from the historical dynamics of who entered the field, when, and for how long.

@@ -1,0 +1,3 @@
+Visual explanation of the framework to analyze multipolar social systems.
+
+Design by Liuhuaying Yang and Johannes Sorger, from the design team of the Complexity Science Hub.
